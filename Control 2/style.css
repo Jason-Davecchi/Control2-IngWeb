@@ -1,0 +1,166 @@
+
+
+.Letra{
+    font-style: oblique;
+    font-size: 15px;
+    text-align: center;
+}
+
+.LetraRec{
+    font-style: normal;
+    font-size: 15px;
+    text-align: center;
+}
+
+td.Ciencias{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(0, 128, 124 );
+    width: 60px;
+    height: 30px;
+}
+
+td.Inge{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(78, 129, 186 );
+    width: 60px;
+    height: 30px;
+}
+
+td.Paleon{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(65, 173, 197 );
+    width: 60px;
+    height: 30px;
+}
+
+td.Prima{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(92, 205, 251 );
+    width: 60px;
+    height: 30px;
+}
+
+td.Matema{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(128, 99, 158 );
+    width: 60px;
+    height: 30px;
+}
+
+td.Astro{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(237, 28, 36 );
+    width: 60px;
+    height: 30px;
+}
+
+td.Fisicas{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(255, 128, 0 );
+    width: 60px;
+    height: 30px;
+}
+
+td.Blanco{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(255, 255, 255 );
+    width: 60px;
+    height: 30px;
+}
+
+td.Bio-Bioq-Med{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(151, 187, 101 );
+    width: 60px;
+    height: 30px;
+}
+
+td.Quimicas{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(235, 227, 79 );
+    width: 60px;
+    height: 30px;
+}
+
+td.RecCiencias{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(0, 128, 124 );
+    width: 100px;
+    height: 30px;
+}
+
+td.RecInge{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(78, 129, 186 );
+    width: 100px;
+    height: 30px;
+}
+
+td.RecPaleon{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(65, 173, 197 );
+    width: 100px;
+    height: 30px;
+}
+
+td.RecPrima{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(92, 205, 251 );
+    width: 100px;
+    height: 30px;
+}
+
+td.RecMatema{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(128, 99, 158 );
+    width: 100px;
+    height: 30px;
+}
+
+td.RecAstro{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(237, 28, 36 );
+    width: 100px;
+    height: 30px;
+}
+
+
+td.RecFisicas{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(255, 128, 0 );
+    width: 100px;
+    height: 30px;
+}
+
+td.RecBio-Bioq-Med{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(151, 187, 101 );
+    width: 100px;
+    height: 30px;
+}
+
+td.RecQuimica{
+    border: 3px;
+    border-style: solid 3px;
+    background-color: rgba(235, 227, 79 );
+    width: 100px;
+    height: 20px;
+}
